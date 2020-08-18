@@ -35,7 +35,6 @@ Arduino tool kit, and require following material:
 - Power source: Li-Po Battery
 ```
 
-
 If you want to buy this board and are in Taiwan, please visit my shop: 
 
 Will OPEN SOON:
