@@ -4,13 +4,11 @@
 We are visual team of POI arty performer. Design and develop the light-painting equipment which contain picture & dynamic presentation.
 - [Promotional Video](https://youtu.be/c2NhDoxItCM)
 
-##
-
 This was my college side project during 2013-2014 in KUAS (National Kaohsiung University of Applied Sciences, Taiwan).
 
 2017 - Re-engineering hardware part, split the core as controller and display, purpose to minimum PCB after-assemble space. LEDs used the improved version SK6812B-3535 (package) from WS2812B-5050, got better heat radiating, smaller dot will increase the image resolution.
 
-**2018** - Base on Pixel-X prototype used the same controller board, rebuild the display layout to 40 LEDs which is smaller package (SK6812B-2427). System compare detail please refer following slide.
+**2018 - Base on Pixel-X prototype used the same controller board, rebuild the display layout to 40 LEDs which is smaller package (SK6812B-2427). System compare detail please refer following slide.**
 
 ## 
 
