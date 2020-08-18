@@ -1,5 +1,4 @@
 ![*HECS Electronic | Pixel-U*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_U/blob/master/res/Pixel-U-6.png)
-##
 
 # HECS Electronic | Pixel-U
 ## Light Painting Equipment
