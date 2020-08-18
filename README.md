@@ -10,10 +10,8 @@ This was my college side project during 2013-2014 in KUAS (National Kaohsiung Un
 2018 - Base on Pixel-X prototype used the same controller board, rebuild the display layout to 40 LEDs which is smaller package (SK6812B-2427). System compare detail please refer following slide.
 
 ### **About** Mic
-
 Director of HECS, design light painting product which contain hardware layout and software programming.
-
-**Resume (https://drive.google.com/file/d/1NEWwNo3X4ogJMNzp6jpFyT0a6GPGhs7Q/view).**
+Resume (https://drive.google.com/file/d/1NEWwNo3X4ogJMNzp6jpFyT0a6GPGhs7Q/view).**
 
 
 ### **About** HECS
