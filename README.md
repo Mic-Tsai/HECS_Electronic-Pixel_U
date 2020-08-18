@@ -45,7 +45,6 @@ Will OPEN SOON:
 * [HECS SHOP](https://www.)
 
 ## 
-
 ![*HECS Electronic | Pixel-U*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_U/blob/master/res/Pixel-U-1.png)
 ![*HECS Electronic | Pixel-U*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_U/blob/master/res/Pixel-U-2.png)
 ![*HECS Electronic | Pixel-U*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_U/blob/master/res/Pixel-U-3.png)
