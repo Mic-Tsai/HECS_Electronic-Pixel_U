@@ -40,7 +40,7 @@ If you want to buy this board and are in Taiwan, please visit my shop:
 
 Will OPEN SOON:
 * [HECS SHOP](https://www.)
-* [Mail] (xbcke12345@gmail.com)
+* Contact me via mail (xbcke12345@gmail.com)
 
 ## 
 ![*HECS Electronic | Pixel-U*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_U/blob/master/res/Pixel-U-1.png)
