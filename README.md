@@ -17,7 +17,7 @@ Director of HECS, design light painting product which contain hardware layout an
 
 ### **About HECS**
 
-If you intresting how it work please refer for detail:
+Intresting how it work please refer for detail:
 
 - [HECS ISSUU](https://issuu.com/home/published/hecs_book)
 
@@ -35,10 +35,12 @@ Arduino tool kit, and require following material:
 - Power source: Li-Po Battery
 ```
 
+
 If you want to buy this board and are in Taiwan, please visit my shop: 
 
 Will OPEN SOON:
 * [HECS SHOP](https://www.)
+* [Mail] (xbcke12345@gmail.com)
 
 ## 
 ![*HECS Electronic | Pixel-U*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_U/blob/master/res/Pixel-U-1.png)
