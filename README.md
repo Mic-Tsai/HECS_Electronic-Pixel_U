@@ -43,6 +43,7 @@ Will OPEN SOON:
 ![*HECS Electronic | Pixel-U*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_U/blob/master/res/Pixel-U-4.png)
 ![*HECS Electronic | Pixel-U*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_U/blob/master/res/Pixel-U-5.png)
 ![*HECS Electronic | Pixel-U*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_U/blob/master/res/Pixel-U-6.png)
+![*HECS Electronic | Pixel-U*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_U/blob/master/res/Pixel-X_Main_Control_v11-1.png)
 ![*HECS Electronic | Pixel-U*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_U/blob/master/res/Pixel-X_Display_v4_sk6805-2427-40pixel_0.97x_re_place-1.png)
 ## 
 
