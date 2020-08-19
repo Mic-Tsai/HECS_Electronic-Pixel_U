@@ -9,10 +9,12 @@ We are a visual team of POI arty performers. Design and develop the light-painti
 This was my college side project during 2013-2014 in KUAS (National Kaohsiung University of Applied Sciences, Taiwan).
 
 2017 | Pixel-X | 
+
   Re-engineering hardware part, split the core as controller and display, purpose to minimum PCB after-assemble space. LEDs used the improved version SK6812B-3535 (package) from WS2812B-5050, got better heat radiating, the smaller dots will increase the image resolution.
 
-**2018 | Pixel-U | 
-  Base on Pixel-X prototype used the same controller board, rebuild the display layout to 40 LEDs which is smaller package (SK6812B-2427). System compare detail please refer the following slide.**
+**2018 | Pixel-U |**
+
+  **Base on Pixel-X prototype used the same controller board, rebuild the display layout to 40 LEDs which is smaller package (SK6812B-2427). System compare detail please refer the following slide.**
 
 ## 
 
