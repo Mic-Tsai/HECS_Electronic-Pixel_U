@@ -17,6 +17,7 @@ This was my college side project during 2013-2014 in KUAS (National Kaohsiung Un
   **Base on Pixel-X prototype used the same controller board, rebuild the display layout up to 40 LEDs which is smaller package (SK6812B-2427). System compare detail please refer the following slide.**
 
   
+**How to build**
 
 ```
 Arduino tool kit, and require the following material:
