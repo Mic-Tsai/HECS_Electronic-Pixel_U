@@ -14,7 +14,7 @@ This was my college side project during 2013-2014 in KUAS (National Kaohsiung Un
 
 **2018 | Pixel-U |**
 
-  **Base on Pixel-X prototype used the same controller board, rebuild the display layout to 40 LEDs which is smaller package (SK6812B-2427). System compare detail please refer the following slide.**
+  **Base on Pixel-X prototype used the same controller board, rebuild the display layout up to 40 LEDs which is smaller package (SK6812B-2427). System compare detail please refer the following slide.**
 
 ## 
 
