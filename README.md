@@ -16,6 +16,15 @@ This was my college side project during 2013-2014 in KUAS (National Kaohsiung Un
 
   **Base on Pixel-X prototype used the same controller board, rebuild the display layout up to 40 LEDs which is smaller package (SK6812B-2427). System compare detail please refer the following slide.**
 
+
+```
+Arduino tool kit, and require the following material:
+- MCU: ATmega328p
+- Storage: SD card
+- Display: SK6812B-2427
+- Power source: Li-Po Battery
+```
+
 ## 
 
 ### **About Mic**
@@ -34,15 +43,7 @@ Interesting how it works please refer for detail:
 
 - [HECS Electronics](https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing)
 
-## 
-
-```
-Arduino tool kit, and require the following material:
-- MCU: ATmega328p
-- Storage: SD card
-- Display: SK6812B-2427
-- Power source: Li-Po Battery
-```
+### **About Hardware**
 
 If you want to buy this board and are in Taiwan, please visit my shop: 
 
