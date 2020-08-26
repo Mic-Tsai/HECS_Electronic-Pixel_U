@@ -1,6 +1,6 @@
 ![*HECS Electronic | Pixel-U*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_U/blob/master/res/Pixel-U-1.png)
 
-# HECS Electronic | Pixel-U
+## HECS Electronic | Pixel-U
 ## Light Painting Equipment
 
 [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
