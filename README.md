@@ -11,7 +11,6 @@ We are a visual team of POI arty performers. Design and develop the light-painti
 
 - [Promotional Video](https://youtu.be/c2NhDoxItCM)
 
-
 2017 | Pixel-X
 
   Re-engineering hardware part, split the core as controller and display, purpose to minimum PCB after-assemble space. LEDs used the improved version SK6812B-3535 (package) from WS2812B-5050, got better heat radiating, the smaller dots will increase the image resolution.
