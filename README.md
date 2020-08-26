@@ -5,10 +5,12 @@
 
 [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
 
-We are a visual team of POI arty performers. Design and develop the light-painting equipment which contains picture & dynamic presentation.
+2013 | HECS
+
+We are a visual team of POI arty performers. Design and develop the light-painting equipment which contains picture & dynamic presentation. This was my college side project during 2013-2014 in KUAS (National Kaohsiung University of Applied Sciences, Taiwan).
+
 - [Promotional Video](https://youtu.be/c2NhDoxItCM)
 
-This was my college side project during 2013-2014 in KUAS (National Kaohsiung University of Applied Sciences, Taiwan).
 
 2017 | Pixel-X
 
